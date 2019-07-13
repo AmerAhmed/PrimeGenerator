@@ -20,9 +20,7 @@
 //  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 //  DEALINGS IN THE SOFTWARE.
 
-/* code */
-
-
+/* code is written by Amer Ahmed*/
 #include <iostream>
 using namespace std;
 

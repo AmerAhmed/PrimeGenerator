@@ -1,10 +1,4 @@
-# gcc -o hello hello.c 
-> ./hello 
-> Hello, World!
-> =======================
-# g++ -o hello hello.cc 
-> ./hello 
-> Hello, World!
->=======================
-> g++ -o hello hello.cpp
-> ./hello
+
+> # Prime numbers generator
+> To build project using: g++ -o hello hello.cpp
+> To run it using: ./hello
